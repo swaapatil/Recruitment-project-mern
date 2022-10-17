@@ -5,7 +5,7 @@
 // import  AuthContext from './Context/Employeeauth';
 // import { JobsContextProvider } from './Context/Jobpostcontext';
 
-
+//-------------
 // const root = ReactDOM.createRoot(document.getElementById('root'));
 // root.render(
 
@@ -14,6 +14,7 @@
 //     <App />
 //     </JobsContextProvider>
 //   </AuthContext>
+
 
 // );
 
