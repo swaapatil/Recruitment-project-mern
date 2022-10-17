@@ -1,0 +1,82 @@
+
+
+.signup{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content:flex-start;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 200px; 
+}
+.navbar1{
+   
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 300px;
+        padding: 40px 0 0 150px;
+        color: #003566;
+  
+}
+.empreg{
+    width: 300px;
+    border: 1px solid #17388E;
+    background-color: #FFFFFF;
+    padding: 20px 80px;
+}
+.empreg:hover{
+    border: 1px solid #FFFFFF;
+    background-color: #17388E;
+    color:#FFFFFF ;
+}
+.empform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+    margin-left:300px ;
+}
+.authbuttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.empregform{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 50px;
+    padding: 40px 40px 80px ;
+    background-color:#17388E;
+    color: #FFFFFF;
+}
+.empregform h2{
+    font-size: 25px;
+    opacity: 0.9;
+}
+.empregform1{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    /* background-color: aqua; */
+}
+input{
+    width: 15vw;
+    height: 3vh;
+    border-radius: 4px;
+    padding-left:15px ;
+    border: none;
+}
+.empreg1{
+    width: 15vw;
+    padding: 10px;
+    border: none;
+    background-color: #F18701;
+}

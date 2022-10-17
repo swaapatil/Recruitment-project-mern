@@ -1,0 +1,44 @@
+.emplogin{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 200px; 
+}
+.empform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+    margin-left:300px ;
+}
+.emplogform{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+    padding: 40px 40px 60px ;
+    background-color:#17388E;
+    color: #FFFFFF;
+}
+.emplogform1{
+   
+        width: 300px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 30px;
+    
+   
+}
+.empreg1{
+    width: 15vw;
+    padding: 10px;
+    border: none;
+    background-color: #F18701;
+}
